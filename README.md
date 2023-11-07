@@ -11,5 +11,6 @@ python manage.py migrate
 python manage.py createsuperuser
 ```
 ## License
-This project is licensed under the [MIT License](https://github.com/yourusername/KSBankApp)
+This project is licensed under the [MIT License]([https://github.com/yourusername/KSBankApp](https://github.com/shreeyan28/KSBank/blob/main/README.md)https://github.com/shreeyan28/KSBank/blob/main/README.md)
+
 © Sreean Rikkala. 2023
