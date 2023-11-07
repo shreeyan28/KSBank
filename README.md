@@ -9,3 +9,7 @@ docker-build .
 docker-compose run django KS_Bank_App
 python manage.py migrate
 python manage.py createsuperuser
+```
+## License
+This project is licensed under the [MIT License](https://github.com/yourusername/KSBankApp)
+© Sreean Rikkala. 2023
