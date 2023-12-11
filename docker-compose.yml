@@ -1,0 +1,10 @@
+version: '3'
+services:
+  django:
+    image: django-app
+    ports:
+      - "8989:8989"
+  react:
+    image: react-app
+    ports:
+      - "3000:80"
